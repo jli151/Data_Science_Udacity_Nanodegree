@@ -15,7 +15,7 @@ This project runs with Python 3.7.6 64-bit in Jupyter Notebook. Several librarie
 - sklearn
 
 ### Data
-Data was provided by the course and can be downloaded under the same folder:
+Data was provided by the course and can be downloaded from the compressed file under the same folder:
 - calendar.csv: contains the availability and price
 - listings.csv: includes all information available to describe the listing
 - reviews.csv: some comments and reviews about the listing
