@@ -14,11 +14,14 @@ This project runs with Python 3.7.6 64-bit in Jupyter Notebook. Several librarie
 - seaborn
 - sklearn
 
-### Data
+### Files
 Data was provided by the course and can be downloaded from the compressed file under the same folder:
 - calendar.csv: contains the availability and price
 - listings.csv: includes all information available to describe the listing
 - reviews.csv: some comments and reviews about the listing
+
+Data analysis file
+- Airbnb_data_analysis.ipynb: contains the whole analysis process
 
 ## Motivation
 As a loyal user of Airbnb, I am always wondering what contirbutes to the listing price on Airbnb website. In the future, I might consider listing my property (if I have any at that time) for guests to stay over. In order to maximize my profit, I would defintely need to do some research on what would increase the listing price. Therefore, this project serves as a great opportunities to take the data from Seattle as an example.
