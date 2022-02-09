@@ -27,7 +27,7 @@ Data analysis file
 As a loyal user of Airbnb, I am always wondering what contirbutes to the listing price on Airbnb website. In the future, I might consider listing my property (if I have any at that time) for guests to stay over. In order to maximize my profit, I would defintely need to do some research on what would increase the listing price. Therefore, this project serves as a great opportunities to take the data from Seattle as an example.
 
 
-## Project conclusion/main findings
+## Summary of analysis
 By the end of the analysis, I was able to answer three main questions that I am most interested in:
 **1) What is the most expensive month to book accomodation in Seattle?**
 
