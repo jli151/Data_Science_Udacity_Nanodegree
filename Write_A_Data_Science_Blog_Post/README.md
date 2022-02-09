@@ -28,7 +28,7 @@ As a loyal user of Airbnb, I am always wondering what contirbutes to the listing
 
 
 ## Summary of analysis
-By the end of the analysis, I was able to answer three main questions that I am most interested in:
+By the end of the analysis, I was able to use descriptive statistics and linear regression model to answer three main questions that I am most interested in:
 **1) What is the most expensive month to book accomodation in Seattle?**
 
     It is generally the most expensive to book accomodation through Airbnb during the summer time, in particular, August, July and June. It is cheapest to book in winter.
